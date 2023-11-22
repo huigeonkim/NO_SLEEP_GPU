@@ -1,3 +1,5 @@
+![GPU Server Concept](gpu_server_concept.png)
+
 # NO_SLEEP_GPU_PYTORCH
 
 ## Introduction
@@ -25,15 +27,11 @@ This command automatically downloads the MNIST dataset and utilizes all availabl
 - All available GPUs are automatically used.
 - Simple yet effective neural network training to keep the GPU server active.
 
-## Caution
-This project should only be used for research and educational purposes. Ensure compliance with the terms of service of your service provider.
-
 ## License
 This project is distributed under the MIT License. For more details, see the LICENSE file.
 
 ## Contact
 For questions or suggestions about the project, please contact [here](https://github.com/[YourGitHubUsername]/NO_SLEEP_GPU_PYTORCH/issues).
 
-![GPU Server Concept](gpu_server_concept.png)
 
 
