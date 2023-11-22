@@ -15,6 +15,7 @@ To use this project, you need Python and the following libraries:
 
 It is recommended to install these in a virtual environment. 
 You can install the necessary libraries using pip:
+
 `pip install torch torchvision numpy tqdm`
 
 
