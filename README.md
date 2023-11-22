@@ -29,7 +29,7 @@ This command automatically downloads the MNIST dataset and utilizes all availabl
 - **Simple yet effective neural network training to keep the GPU server active.**
 
 ## License
-This project is distributed under the MIT License. For more details, see the LICENSE file.
+This project is distributed under the MIT License.
 
 ## Contact
 For questions or suggestions about the project, please contact [here](https://github.com/[YourGitHubUsername]/NO_SLEEP_GPU_PYTORCH/issues).
