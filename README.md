@@ -13,12 +13,14 @@ To use this project, you need Python and the following libraries:
 - numpy
 - tqdm
 
-It is recommended to install these in a virtual environment. You can install the necessary libraries using pip:
-pip install torch torchvision numpy tqdm
+It is recommended to install these in a virtual environment. 
+You can install the necessary libraries using pip:
+`pip install torch torchvision numpy tqdm`
 
 
 ## Usage
 To execute the project, simply run the following command:
+
 `python3 MNIST_train.py`
 
 This command automatically downloads the MNIST dataset and utilizes all available GPUs to train the neural network.
