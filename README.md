@@ -19,7 +19,7 @@ pip install torch torchvision numpy tqdm
 
 ## Usage
 To execute the project, simply run the following command:
-python3 MNIST_train.py
+`python3 MNIST_train.py`
 
 This command automatically downloads the MNIST dataset and utilizes all available GPUs to train the neural network.
 
